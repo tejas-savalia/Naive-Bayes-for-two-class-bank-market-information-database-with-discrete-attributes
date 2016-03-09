@@ -1,0 +1,1 @@
+# Naive-Bayes-for-two-class-bank-market-information-database-with-discrete-attributes
